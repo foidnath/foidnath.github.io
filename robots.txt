@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://foidnath.github.io/sitemap.html
+Sitemap: https://foidnath.github.io/app/sitemap.html
+Sitemap: https://foidnath.github.io/assets/sitemap.html
+Sitemap: https://foidnath.github.io/includes/sitemap.html
+Sitemap: https://foidnath.github.io/src/sitemap.html
